@@ -1,7 +1,9 @@
+## Here is my Lab 1 code:
+
 #include <iostream>
 using namespace std;
-
 int main() {
+
     //Task 1
     int numbers[100];
 

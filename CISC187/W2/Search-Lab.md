@@ -51,3 +51,7 @@
 - Binary search is much faster on large sorted lists.
 - Linear and randomized search are simple but slower on large lists.
 - Use binary search when the array is sorted and you want fast lookup.
+---
+
+## Video Link:
+- https://www.veed.io/view/2c7b26e6-00d1-4fdb-9b52-e2123e268867?source=Homepage&panel=share 

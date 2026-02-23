@@ -80,3 +80,8 @@ Step counting helps analyze algorithm efficiency as data size grows.
 Sorting is a basic yet essential computation in data structures.
 Even simple algorithms like Bubble, Selection, and Insertion sorting 
 reveal how performance can be different even with similar time complexities.
+
+--- 
+
+## Video Link:
+https://www.veed.io/view/59facd68-562f-441b-828d-e14700409463?source=editor&panel=share 

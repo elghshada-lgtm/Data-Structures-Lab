@@ -37,7 +37,7 @@ When calling factorial(10), the function will compute:
 ```cpp
 10 × 8 × 6 × 4 × 2 × factorial(0)
 ```
-However there is no base case for n = 0 or negative numbers.
+But there is no base case for n = 0 or negative numbers.
 
 ### Final Result:
 
